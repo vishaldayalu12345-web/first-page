@@ -1,0 +1,66 @@
+body{
+    background-color: red;
+}
+.parent{
+    display: flex;
+    height: 50px;  
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:transparent ;
+    border:1px solid white;
+}
+
+.child1{
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+.child2{
+    display: flex;
+    margin-left: 360px;
+    background-color: transparent;
+}
+
+.aa{
+    text-align: center;
+    margin: 20px;
+    background-color: transparent;
+}
+
+.child{
+    margin-left: 280px;
+    margin-right: 280px;
+}
+.hed{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.sub{
+    text-align: center;
+    
+}
+
+.par{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.pare{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.chi{
+    display: flex;
+    margin: 40px;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 10px;
+}
